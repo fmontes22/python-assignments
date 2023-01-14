@@ -9,7 +9,7 @@ vegetables = [
 
 import csv
 
-# 1. Loops through each vegetable
+# 1. Loops through each vegetable test
 
 for veg in vegetables: 
     print(veg)
